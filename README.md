@@ -1,4 +1,4 @@
-<img src="http://rbatzing.github.io/img/signal-2024-03-29-192351_003.jpeg" alt="RPB Photo" align="right" width="30%"/> 
+<img src="http://rbatzing.github.io/img/signal-2024-03-29-192351_003.jpeg" width="30%"/> 
 # Mai-314.github.io
 # _Nang Aye Mai_
 > _Student_<br />
